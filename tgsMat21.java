@@ -1,5 +1,6 @@
 import java.io.*;
 class tgsMat21{
+    
 public static void main(String[] args){
 BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
 String [] data= new String[3];
